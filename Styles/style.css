@@ -244,6 +244,7 @@ footer {
   flex-direction: column;
   gap: 20px;
 }
-.footer__contact ul li {
+
+footer ul li {
   display: flex;
 }
